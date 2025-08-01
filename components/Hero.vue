@@ -46,7 +46,7 @@ onMounted(() => {
             <span></span>
             <span></span>
           </div>
-          <img class="img-fluid rounded-circle hero-img" src="/images/chema.jpg" alt="" />
+          <img class="img-fluid rounded-circle hero-img" src="/public/images/chema.JPG" alt="Foto de chema" />
           <div class="waves-bottom">
             <span></span>
             <span></span>
